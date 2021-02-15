@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: Ubuntu, sans-serif;
+	color: white;
+	background-color: #27B294;
+}
+
+div.container{
+	padding : 20px 50px;
+	background-color: white;
+	color: #3A3135;
+}
+
+h1, p.exercices, h2{
+	text-align: center;
+}
+
+h1{
+	margin-top: 50px;
+	font-size: 4em;
+	background-color: #1EA07D;
+}
+
+h3{
+	color: #E88126;
+	font-size: 1.5em;
+}
+
+p.reponse{
+	border : 2px dashed #954DC1;
+	padding: 16px;
+}
